@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 💬 Ask me about **C++, Python**
+- 💬 Ask me about **C++, Flutter**
 
 - 📫 How to reach me **manasakarshan@gmail.com**
 
